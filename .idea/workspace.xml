@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4cc69c5-0810-49ec-9cf9-f95de3be0e61" name="Default Changelist" comment="add window.onload">
+    <list default="true" id="b4cc69c5-0810-49ec-9cf9-f95de3be0e61" name="Default Changelist" comment="add answer in html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.js" afterDir="false" />
@@ -72,7 +72,8 @@
       <workItem from="1606048439416" duration="2358000" />
       <workItem from="1606058273891" duration="6052000" />
       <workItem from="1606069355985" duration="3923000" />
-      <workItem from="1606162731622" duration="1006000" />
+      <workItem from="1606162731622" duration="1188000" />
+      <workItem from="1606199872958" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="add window.onload">
       <created>1606071867127</created>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606071867127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add answer in html">
+      <created>1606163830306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606163830306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add window.onload" />
-    <option name="LAST_COMMIT_MESSAGE" value="add window.onload" />
+    <MESSAGE value="add answer in html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add answer in html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2690" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606048976945">
@@ -116,9 +125,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2669" y="240" width="465" height="633" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606063111462" />
-    <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606071869551">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="593" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1606163832677">
+      <screen x="54" y="27" width="1866" height="1053" />
     </state>
     <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1606071869551" />
+    <state x="593" y="276" key="Vcs.Push.Dialog.v2/54.27.1866.1053@54.27.1866.1053" timestamp="1606163832677" />
   </component>
 </project>
