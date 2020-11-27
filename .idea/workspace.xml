@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4cc69c5-0810-49ec-9cf9-f95de3be0e61" name="Default Changelist" comment="add answer in html">
+    <list default="true" id="b4cc69c5-0810-49ec-9cf9-f95de3be0e61" name="Default Changelist" comment="working on adding options">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.js" afterDir="false" />
@@ -74,6 +74,7 @@
       <workItem from="1606069355985" duration="3923000" />
       <workItem from="1606162731622" duration="1188000" />
       <workItem from="1606199872958" duration="1207000" />
+      <workItem from="1606504702188" duration="3795000" />
     </task>
     <task id="LOCAL-00001" summary="add window.onload">
       <created>1606071867127</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606163830306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="working on adding options">
+      <created>1606504981567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606504981567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,13 +118,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add window.onload" />
     <MESSAGE value="add answer in html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add answer in html" />
+    <MESSAGE value="working on adding options" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on adding options" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2690" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606048976945">
-      <screen x="0" y="27" width="3840" height="1053" />
+    <state x="1345" y="311" width="374" height="491" key="FileChooserDialogImpl" timestamp="1606505011931">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="2690" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.3840.1053@0.27.3840.1053" timestamp="1606048976945" />
+    <state x="1345" y="311" width="374" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1606505011931" />
     <state x="2752" y="453" width="309" height="207" key="Github.ShareDialog" timestamp="1606063095653">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
